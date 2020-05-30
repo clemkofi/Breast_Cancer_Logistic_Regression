@@ -1,10 +1,12 @@
-# Breast_Cancer_Logistic_Regression
+# Breast Cancer Logistic Regression
 This is an implementation of the Logistic Regression Classification Algorithm using the sklearn library.
 
-##Data: Acquired from the UCI Breast Cancer Dataset 
+## Data:
+
+Acquired from the UCI Breast Cancer Dataset 
 
 
-##Results:
+## Results:
 
 Accuracy of model = 96.70 %
 Model Standard deviation = 1.97 % 
